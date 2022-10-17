@@ -1,0 +1,99 @@
+.helo
+{
+    list-style: none;
+   
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.contact {
+    background: var(--light-bg);
+  }
+  
+  .contact .box-container {
+    display:flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+  }
+  
+  .contact .box-container .box {
+    width: 14rem;
+  }
+  
+  .contact .box-container .box h3 {
+    font-size: 1.7rem;
+    margin-bottom: 1rem;
+  }
+  
+  .contact .box-container .box p {
+    font-size: 1.5rem;
+    color: var(--light-color);
+    margin-bottom: 2rem;
+  }
+  
+  .contact .box-container form {
+    flex: 1 1 42rem;
+  }
+  
+  .contact .box-container form .inputBox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .contact .box-container form .inputBox input {
+    width: 49%;
+  }
+  
+  .contact .box-container form .inputBox input,
+  .contact .box-container form textarea {
+    border-radius: 5rem;
+    padding: 1.2rem 1.8rem;
+    font-size: 1.5rem;
+    color: var(--black);
+    margin: 0.7rem 0;
+  }
+  
+  .contact .box-container form textarea {
+    width: 100%;
+    border-radius: 1rem;
+    resize: none;
+    height: 25rem;
+  }
+  
+  .contact .box-container form .btn {
+    color: var(--black);
+    background: var(--white);
+    border: 0.1rem solid var(--black);
+    margin-top: 1rem;
+  }
+  
+  .contact .box-container form .btn:hover {
+    background: var(--black);
+    color: var(--white);
+  }
+
+  .text-area2{
+    height:10rem;
+    width:70rem;
+  }
+  .nice{
+    border: solid 2px;
+    width:50px;
+    padding: 15px;
+    border-radius:20px;
+  }
+  .nice:hover{
+    background-color:rgba(173, 173, 233, 0.929);
+  }
+  .nice1{
+    list-style: none;
+    justify-content:50px;
+  }
+  
+  @media (max-width:700px){
+    .text-area2{
+      height:200px;
+      width:460px;
+    }
+  }

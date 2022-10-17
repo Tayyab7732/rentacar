@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cool1{
+justify-content: space-between;
+margin-left:20px;
+}
+.cool2{
+    margin-left:80px !important;
+}
+.cool3{
+    height: 400px;
+}
+.cool4{
+text-align: center;
+padding: 100px;
+}
+.fa-circle-info{
+    font-size:50px;
+}
+.cool5{
+    border: solid 1px;
+    width:100%;
+}
+.cool6{
+    margin-right:50px;
+}

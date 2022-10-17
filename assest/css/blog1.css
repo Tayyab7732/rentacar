@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.tayyab1{
+    background-image: url(subhead-bg.jpg);
+   margin-top:70px;
+   padding-top:200px;
+  
+   background-repeat: no-repeat;
+    
+
+}
+.tayyab2{
+    width: 100%;
+}
+
+.tayyab3{
+display: flex;
+list-style: none;
+font-size: larger;
+text-align: start;
+}
+.tayyab4{
+
+    margin-left:300px;
+    text-align: auto;
+    
+}
+.tayyab5{
+list-style: none;
+}
+.tayyab6{
+margin-left: 317px;
+    }
+    .tayyab7{
+        margin-left: 317px;
+        }
+        .tayyab8{
+            margin-left: 328px;
+            }
+            .tayyab9{
+                margin-left: 323px;
+                }
+                .tayyab10{
+                    margin-left: 260px;
+                    }
+                    .tayyab11{
+                        margin-left: 315px;
+                        }
+                        .tayyab12{
+                            margin-left: 280px;
+                            }
+                            .feature-list{
+                                list-style: none;
+                               
+                                justify-content: space-between;
+                            }
+                            .tayyab13{
+                                border-radius:50px;
+                            }

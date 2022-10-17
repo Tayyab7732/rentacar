@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.card-text{
+   text-align: justify;
+}
+.d-flex{
+    list-style: none;
+}
+
+
